@@ -1,0 +1,24 @@
+h1{
+    text-align: center;
+    background-color: black;
+    color: rgb(255, 255, 255);
+}
+h2{
+    text-align: center;
+}
+.color1{
+    background-color: #24ff48;
+}
+.color2{
+    background-color: #ff45be;
+}
+.color3{
+    background-color: #24ff48;
+}
+.color4{
+    background-color: #ff45be;
+}
+body{
+    margin-left: 30px;
+    margin-right: 30px;
+}
