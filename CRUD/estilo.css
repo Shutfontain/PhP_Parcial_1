@@ -1,0 +1,105 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+/*echo por Jose Miguel*/
+.header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.container {
+    max-width: 600px;
+    margin: 20px auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+form {
+    margin-top: 20px;
+}
+
+input[type="text"],
+input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    box-sizing: border-box;
+}
+
+input[type="submit"] {
+    width: 100%;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover {
+    background-color: #45a049;
+}
+
+.success-message {
+    color: green;
+    margin-top: 10px;
+}
+
+.jijija table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+.jijija table td, .jijija table th {
+    padding: 10px;
+    border: 1px solid #ccc;
+    text-align: left;
+}
+
+.tabla-adornada {
+    width: 100%;
+
+    border-collapse: collapse;
+    background-color: #f2f2f2;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    margin: 0;
+    padding: 0;
+}
+
+.tabla-adornada th, .tabla-adornada td {
+    border: 1px solid #333;
+    padding: 8px;
+    text-align: center;
+}
+
+.tabla-adornada th {
+    background-color: #333;
+    color: #fff;
+}
+
+.tabla-adornada tr:nth-child(even) {
+    background-color: #e6e6e6;
+}
+h1{
+    background-color: #45a049;
+    color: white;
+    padding: 10px;
+}
+.iyu{
+    background-color: #64f26b;
+}

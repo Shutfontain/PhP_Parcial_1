@@ -1,0 +1,65 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
+/*echo por Jose Miguel*/
+h1 {
+    text-align: center;
+    color: #333;
+    margin-top: 50px;
+}
+
+table {
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse;
+}
+
+td {
+    padding: 10px;
+    text-align: center;
+}
+
+h2 a {
+    text-decoration: none;
+    color: #fff;
+    background-color: #45a049;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+h2 a:hover {
+    background-color: #45a049;
+}
+
+.jijija {
+    text-align: center;
+    margin-top: 50px;
+}
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background-color: #45a049;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+h1 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.hhmhhm
+{
+    background-color: green;
+    color: white;
+    padding: 10px;
+}
